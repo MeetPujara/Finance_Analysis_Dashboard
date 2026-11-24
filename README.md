@@ -9,10 +9,10 @@ An interactive 2-page Power BI dashboard that monitors financial transactions, c
 ## Dashboard preview
 
 ### Page 1: Overview Analysis
-![Overview Analysis](images/overview.png)
+![Overview Analysis](Images/overview.png)
 
 ### Page 2: Transactions (detailed grid)
-![Transactions](images/transactions.png)
+![Transactions](Images/transactions.png)
 
 ---
 
